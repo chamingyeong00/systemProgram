@@ -1,0 +1,6 @@
+#7F 45 4C 46|Executable and Linkable Format
+89 50 4E 47 0D 0A 1A 0A|PNG
+FF D8 FF E0|JPG
+66 74 79 70 69 73 6F 6D|mp4
+00 00 01 B3|mpeg
+#1F 8B|gzip
